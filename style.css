@@ -1,0 +1,90 @@
+body {
+    font-family: "Lato", sans-serif;
+}
+
+
+
+.main-head{
+    height: 150px;
+    background: #FFF;
+   
+}
+
+.sidenav {
+    height: 100%;background: rgb(168,54,182);
+    background: linear-gradient(166deg, rgba(168,54,182,1) 0%, rgba(130,72,191,1) 46%, rgba(21,115,207,1) 100%);
+        color: white !important;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+
+.main {
+    padding: 0px 10px;
+}
+.btn-black:hover {
+    background-color: #333 !important;
+    color: white !important;
+}
+
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+}
+
+@media screen and (max-width: 450px) {
+    .login-form{
+        margin-top: 10%;
+    }
+
+    .register-form{
+        margin-top: 10%;
+    }
+    
+    
+}
+
+@media screen and (min-width: 768px){
+    .res {
+        text-align: none !important;
+    }
+    
+    .main{
+        margin-left: 40%; 
+    }
+
+    .sidenav{
+        width: 40%;
+        position: fixed;
+        z-index: 1;
+        top: 0;
+        left: 0;
+    }
+
+    .login-form{
+        margin-top: 80%;
+    }
+
+    .register-form{
+        margin-top: 20%;
+    }
+}
+
+
+.login-main-text{
+    margin-top: 20%;
+    padding: 60px;
+    color: #fff;
+}
+
+.login-main-text h2{
+    font-weight: 300;
+}
+
+.btn-black{
+    background: #9736ac !important; 
+color: white;
+    
+}
+.res {
+    text-align: none !important;
+}

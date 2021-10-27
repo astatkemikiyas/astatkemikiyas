@@ -1,0 +1,313 @@
+{
+    "location": [
+        {
+            "C+4": [
+                "BA025 (met bevochtiger)",
+                "AA025",
+                "BA027 (met bevochtiger)",
+                "BA029 (met bevochtiger)",
+                "BA067 ",
+                "AA067",
+                "AA096",
+                "RA008",
+                "RA010"
+            ]
+        },
+        {
+            "C+3": [
+                "AA027",
+                "AA029",
+                "AA084"
+            ]
+        },
+        {
+            "C+3 Over Dak": [
+                "BA024 (met bevochtiger)",
+                "AA024",
+                "BA026 (met bevochtiger)",
+                "AA026",
+                "BA066A",
+                "BA066B",
+                "AA066",
+                "RA007",
+                "AA060"
+            ]
+        },
+        {
+            "A+4": [
+                " BA010 (met bevochtiger)",
+                "AA010 ",
+                " BA042 (met bevochtiger)",
+                " AA42",
+                " BA044 (met bevochtiger)",
+                " AA044",
+                "BA063 ",
+                "AA063A ",
+                "AA063B ",
+                "AA063C ",
+                "AA062 ",
+                "RA011 ",
+                "AA093 ",
+                "AA061 ",
+                "BA087 ",
+                "AA087 ",
+                "BA099 ",
+                "AA099 ",
+                "AA090 ",
+                "AA091 ",
+                "AA091A ",
+                "RA001 ",
+                "RA009 ",
+                "AA110 ",
+                "AA057",
+                "AA059",
+                "BA088",
+                "AA088",
+                "BA089",
+                "AA089",
+                "RA002"
+            ]
+        },
+        {
+            "B+4": [
+                "BA014 (met bevochtiger)",
+                "AA014 ",
+                "BA016 (met bevochtiger)",
+                "BA018 (met bevochtiger)",
+                "BA065",
+                "AA065",
+                "AA094",
+                "RA004",
+                "RA006"
+            ]
+        },
+        {
+            "B+3": [
+                "AA016",
+                "AA018",
+                "AA095"
+            ]
+        },
+        {
+            "B+3 Over Dak": [
+                "BA013 (met bevochtiger)",
+                "AA013",
+                "BA15 (met bevochtiger)",
+                "AA015",
+                "AA058",
+                "BA064A",
+                "RA003",
+                "BA064B",
+                "AA064"
+            ]
+        },
+        {
+            "B-1": [
+                "BA071",
+                "BA072",
+                "AA072",
+                "BA073A",
+                "BA073B",
+                "AA073A",
+                "AA073B",
+                "BA074",
+                "AA074",
+                "BA075",
+                "AA075",
+                "RA013",
+                "BA020 (met bevochtiger)",
+                "AA020",
+                "BA058 (met bevochtiger)",
+                "BA085",
+                "AA085"
+            ]
+        },
+        {
+            "D-1": [
+                "BA105",
+                "AA105",
+                "BA048 (met bevochtiger)",
+                "AA048",
+                "BA050 (met bevochtiger)",
+                "AA050",
+                "BA045 (met bevochtiger)",
+                "AA045 ",
+                "BA101",
+                "AA098",
+                "BA057B (met bevochtiger)",
+                "BA062 (met bevochtiger)",
+                "BA052 (met bevochtiger)",
+                "AA052",
+                "BA051 (met bevochtiger)",
+                "AA051",
+                "BA053 (met bevochtiger)",
+                "AA053",
+                "BA043 (met bevochtiger)",
+                "AA043",
+                "BA076",
+                "AA076",
+                "AA106"
+            ]
+        },
+        {
+            "C-1": [
+                "BA012 (met bevochtiger)",
+                "AA012",
+                "BA046 (met bevochtiger)",
+                "AA046",
+                "BA078",
+                "AA078",
+                "BA047 (met bevochtiger)",
+                "AA047",
+                "AA060",
+                "BA054",
+                "AA054",
+                "BA077",
+                "AA077",
+                "BA079",
+                "BA086",
+                "AA086",
+                "BA041 (met bevochtiger)",
+                "AA041",
+                "BA100",
+                "RA012",
+                "AA108"
+            ]
+        },
+        {
+            "-3 Grote LG lokaal ": [
+                "BA017 (A kant met bevochtiger)",
+                "AA017 (A kant)",
+                "AA068A (A kant)",
+                "BA069 (B kant)",
+                "AA069 (B kant)",
+                "BA055 (B kant)",
+                "BA004 (C kant)",
+                "AA004 (C kant)",
+                "BA006 (C kant met bevochtiger)",
+                "AA006 (C kant)",
+                "BA008(C kant met bevochtiger)",
+                "AA008 (C kant)",
+                "BA039 (C kantmet bevochtiger)",
+                "AA039A",
+                "AA039B",
+                "AA039C",
+                "BA056 (C kant)",
+                "BA022(C kant met bevochtiger)",
+                "AA022(C kant)",
+                "AA068B",
+                "BA061 (C kant met bevochtiger)",
+                "BA001(A kant met Elektrische bevochtiger)",
+                "AA001(A kant)",
+                "BA003 (B kant met bevochtiger) ",
+                "AA003 (B kant)",
+                "BA002 (B kant met bevochtiger)",
+                "AA002 (B kant)",
+                "BA005 (A kant)",
+                "AA005 (A kant)",
+                "BA009 (A kant)",
+                "AA009 (A kant)",
+                "BA057A (A kant met bevochtiger)",
+                "BA040 (A kant)",
+                "AA040 (A kant)",
+                "BA068 (A kant)",
+                "AA068A (C kant)",
+                "AA068B (C kant)",
+                "BA028 (A kant met bevochtiger)",
+                "AA028 (A Kant) ",
+                "AA109 (A kant)",
+                "BA019 (B kant met bevochtiger)",
+                "AA019 (B kant)",
+                "BA059 (B kant met bevochtiger)",
+                "BA082 (B kant)",
+                "AA082 (B kant)",
+                "BA070 (B kant)",
+                "BA104 (B kant)"
+            ]
+        },
+        {
+            "C-3": [
+                "BA004 (C kant)",
+                "AA004 (C kant)",
+                "BA006 (C kant met bevochtiger)",
+                "AA006 (C kant)",
+                "BA008(C kant met bevochtiger)",
+                "AA008 (C kant)",
+                "BA039 (C kantmet bevochtiger)",
+                "BA056 (C kant)",
+                "BA022(C kant met bevochtiger)",
+                "AA022(C kant)",
+                "BA061 (C kant met bevochtiger)",
+                "AA068A (C kant)",
+                "AA068B (C kant)",
+                "AA030B (C Kop)",
+                "BA038 (C Kop)",
+                "AA038 (C Kop)",
+                "BA083 (C Kop)",
+                "AA083 (C Kop)",
+                "BA037 (C Kop met bevochtiger)",
+                "AA037 (C Kop)",
+                "BA036 (C Kop met bevochtiger)",
+                "AA036 (C Kop)",
+                "BA081 (C Kop)",
+                "AA036A (C Kop)",
+                "AA103 (C Kop)",
+                "BA035 (C Kop met bevochtiger)",
+                "AA035 (C Kop)",
+                "BA030 (C Kop)",
+                "AA030 (C Kop)",
+                "BA031(C Bewaking met bevochtiger)",
+                "AA031 (C Bewaking)",
+                "BA034 (C Bewaking met bevochtiger)",
+                "AA034 (C Bewaking)",
+                "AA031A (C Bewaking)",
+                "BA032 (C Bewaking)",
+                "AA032 (C Bewaking)",
+                "BA033 (C Bewaking)",
+                "AA033 (C Bewaking)",
+                "BA080 (C Bewaking)",
+                "AA080 (C Bewaking)"
+            ]
+        },
+        {
+            "A-3": [
+                "BA017 (A kant met bevochtiger)",
+                "AA017 (A kant)",
+                "AA068A (A kant)",
+                "BA001(A kant met Elektrische bevochtiger)",
+                "AA001(A kant)",
+                "BA005 (A kant)",
+                "AA005 (A kant)",
+                "BA009 (A kant)",
+                "AA009 (A kant)",
+                "BA057A (A kant met bevochtiger)",
+                "BA040 (A kant)",
+                "AA040 (A kant)",
+                "BA068 (A kant)",
+                "BA028 (A kant met bevochtiger)",
+                "AA028 (A Kant) ",
+                "AA109 (A kant)",
+                "AA056 (D kant tegenover de bruine lift)",
+                "AA55 (D kant links tegenover de bruine lift )"
+            ]
+        },
+        {
+            "B-3": [
+                "BA069 (B kant)",
+                "AA069 (B kant)",
+                "BA055 (B kant)",
+                "BA003 (B kant met bevochtiger) ",
+                "AA003 (B kant)",
+                "BA002 (B kant met bevochtiger)",
+                "AA002 (B kant)",
+                "BA019 (B kant met bevochtiger)",
+                "AA019 (B kant)",
+                "BA059 (B kant met bevochtiger)",
+                "BA082 (B kant)",
+                "AA082 (B kant)",
+                "BA070 (B kant)",
+                "BA104 (B kant)"
+            ]
+        }
+    ]
+}

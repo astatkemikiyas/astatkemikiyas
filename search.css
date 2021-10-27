@@ -1,0 +1,91 @@
+body {
+    background: rgb(168, 54, 182);
+    background: linear-gradient(166deg, rgba(168, 54, 182, 1) 0%, rgba(130, 72, 191, 1) 46%, rgba(21, 115, 207, 1) 100%);
+    color: white !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100%;
+    /* Fallback for browsers do NOT support vh unit */
+    min-height: 100vh;
+    /* These two lines are counted as one :-)       */
+    font-family: 'Poppins', sans-serif;
+
+}
+
+form {
+    display: flex;
+    justify-content: center;
+
+}
+
+.form-row {
+    width: 80%;
+}
+
+@media only screen and (max-width: 812px) {
+
+    /* For mobile phones: */
+
+    .res {
+        text-align: none !important;
+    }
+    .form-row {
+        width: 100%;
+    }
+
+    .form-row button {
+        text-align: center;
+    }
+
+    main {
+        width: 100%;
+    }
+
+    .container {
+
+        text-align: center !important;
+        top: 60px;
+    }
+
+    .container h1 {
+        font-weight: 700;
+    }
+
+    .container p {
+        font-weight: 400;
+        margin-top: 6%;
+
+    }
+}
+
+@media (min-width: 992px) {
+    .res {
+        text-align: none !important;
+    }
+    .container {
+        width: 970px;
+        text-align: center;
+    }
+
+    .btn-primary {
+        color: white !important;
+        background-color: #b424cd !important;
+        border-color: #b424cd !important;
+        font-weight: 400;
+        letter-spacing: 1px !important;
+    }
+}
+
+.form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control {
+    background-color: #cfcfcf !important;
+    opacity: 1;
+}
+
+.res {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 4%;
+}

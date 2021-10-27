@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="search.css">
+    <title>KBC</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script src="search.js"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;500&display=swap');
+        </style>
+        
+</head>
+<body>
+    <main>
+        <div class="container">
+        <h1>Welcome to FindIt</h1>
+        <p>Find the machine you are looking for or see which machine is there on every floor</p>
+    </div>
+        <div class="container-form">
+            <form action="">
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label for="inputCity">Machine naam (HVAC)</label>
+                        <input id="hvac" type="text" class="form-control" id="inputCity">
+                      </div>
+                    <div class="form-group col-md-4">
+                      <label for="inputState">Locatie</label>
+                      <select  id="location" class="form-control">
+                        <option selected>Choose...</option>
+                      </select>
+                    </div>
+                    <div class="form-group col-md-2"> 
+                        <br>
+                        <button type="submit" class="btn btn-primary mb-2">Submit</button>
+                    </div>
+                    
+                    </div>
+            </form>
+            <div class="res" id="result"></div>
+        </div>
+    </main>
+</body>
+</html>
